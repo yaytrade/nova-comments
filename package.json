@@ -17,6 +17,6 @@
         "vue-loader": "^16.8.3"
     },
     "dependencies": {
-        "moment-timezone": "^0.5.38"
+        "moment-timezone": "^0.6.0"
     }
 }
